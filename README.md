@@ -1,16 +1,9 @@
-<!--
-  GitHub Profile README for Dhonmarckherm
-  Last Updated: March 2026
--->
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Dhonmarckherm+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Applications+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Computer+Vision" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Dhonmarckherm;AI+and+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Python+JavaScript+Computer+Vision" alt="Typing Animation" />
 </p>
 
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070d7,6366f1,58a6ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070d7,6366f1,58a6ff&height=200&section=header&text=Welcome+to+My+Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
 </p>
 
 ---
@@ -62,7 +55,6 @@ class Developer:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1e1e" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e1e" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1e1e1e" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=1e1e1e" alt="Markdown" />
 </p>
 
 ---
@@ -89,7 +81,7 @@ class Developer:
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dhonmarckherm&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
@@ -100,63 +92,29 @@ class Developer:
 ## 🚀 Featured Projects
 
 ### 1. 🤖 AI-JOURNAL-MAKER
-> An intelligent journal maker that automatically analyzes images and generates descriptions with date and time stamps.
+An intelligent journal maker that automatically analyzes images and generates descriptions.
 
-[![AI-JOURNAL-MAKER](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhonmarckherm/AI-JOURNAL-MAKER)
+[![View Project](https://img.shields.io/badge/View-58A6FF?style=for-the-badge&logo=github)](https://github.com/Dhonmarckherm/AI-JOURNAL-MAKER)
 
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FFD700?style=flat-square)
-![Image Analysis](https://img.shields.io/badge/-Image_Analysis-0070d7?style=flat-square)
-
-**Features:**
-- ✅ Automatic image analysis
-- ✅ AI-generated descriptions
-- ✅ Date & time tracking
-- ✅ User-friendly interface
+**Tech:** Python, AI/ML, Image Analysis
 
 ---
 
-### 2. 👟 AI-Powered Shoe Store
-> An AI-powered e-commerce platform featuring face recognition technology for enhanced user experience.
+### 2. 👟 AI Shoe Store
+AI-powered e-commerce with face recognition technology.
 
-[![Shoe Store](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhonmarckherm/shoe-store)
+[![View Project](https://img.shields.io/badge/View-58A6FF?style=for-the-badge&logo=github)](https://github.com/Dhonmarckherm/shoe-store)
 
-**Tech Stack:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Face Recognition](https://img.shields.io/badge/-Face_Recognition-6366f1?style=flat-square)
-![E-commerce](https://img.shields.io/badge/-E_commerce-32CD32?style=flat-square)
-
-**Features:**
-- ✅ Face recognition integration
-- ✅ AI-powered recommendations
-- ✅ Modern e-commerce functionality
-- ✅ Secure and scalable
+**Tech:** JavaScript, Face Recognition, E-commerce
 
 ---
 
-### 3. 📝 GitHub Profile Config
-> Configuration files for my GitHub profile with custom styling and optimizations.
+### 3. 📂 Portfolio
+Professional portfolio website with responsive design.
 
-[![Profile Config](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhonmarckherm/dhonmarckhermosura)
+[![View Project](https://img.shields.io/badge/View-58A6FF?style=for-the-badge&logo=github)](https://github.com/Dhonmarckherm/Portfolio)
 
-**Tech Stack:**
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-### 4. 📂 Portfolio Website
-> A professional portfolio website showcasing my projects, skills, and journey as a developer.
-
-[![Portfolio](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhonmarckherm/Portfolio)
-
-**Tech Stack:**
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
-**Live Demo:** [https://Dhonmarckherm.github.io/Portfolio](https://Dhonmarckherm.github.io/Portfolio)
+**Live:** https://Dhonmarckherm.github.io/Portfolio
 
 ---
 
@@ -168,109 +126,41 @@ class Developer:
 
 ---
 
-## 🎓 Learning Journey
+## 🎓 Learning Roadmap 2026
 
-### Currently Exploring
 - [x] Python Programming
 - [x] JavaScript & Web Development
 - [ ] Deep Learning & Neural Networks
 - [ ] Advanced Computer Vision
-- [ ] Cloud Technologies (AWS/Azure)
-- [ ] MLOps & Model Deployment
-
-### Roadmap 2026
-```
-Q1 2026: Foundation Building
-  ├── Python Mastery
-  ├── Web Development Basics
-  └── Git & GitHub Proficiency
-
-Q2 2026: AI/ML Specialization
-  ├── Machine Learning Algorithms
-  ├── Computer Vision
-  └── Deep Learning Fundamentals
-
-Q3 2026: Advanced Topics
-  ├── Neural Network Architectures
-  ├── Natural Language Processing
-  └── Model Deployment
-
-Q4 2026: Real-World Projects
-  ├── Production-Ready Applications
-  ├── Open Source Contributions
-  └── Portfolio Enhancement
-```
+- [ ] Cloud Technologies
 
 ---
 
-## 💡 Quick Stats
+## 💡 Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhonmarckherm&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dhonmarckherm&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Dhonmarckherm?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dhonmarckherm?style=for-the-badge&color=58A6FF" alt="Total Stars" />
 </p>
 
 ---
 
-## 🌟 Support My Work
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/Dhonmarckherm">
-    <img src="https://img.shields.io/badge/Follow-%40Dhonmarckherm-58A6FF?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://github.com/Dhonmarckherm/Portfolio">
-    <img src="https://img.shields.io/badge/Star-My%20Work-58A6FF?style=for-the-badge&logo=github" alt="Star My Work" />
-  </a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Dhonmarckherm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://Dhonmarckherm.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://Dhonmarckherm.github.io/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
 </p>
-
----
-
-## 💬 Favorite Quotes
-
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay**
-
-> *"Artificial Intelligence is not just about making machines smart; it's about augmenting human capabilities."*  
-> **— Anonymous**
-
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> **— Cory House**
-
----
-
-## 🎯 Open To
-
-- 💼 **Collaborations** on AI/ML projects
-- 🤝 **Open Source** contributions
-- 📚 **Knowledge sharing** and mentorship
-- 🚀 **Innovative ideas** and startups
-- 🎓 **Learning opportunities** and growth
 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ and ☕ by Dhonmarckherm</strong>
+  <strong>Made with ❤️ by Dhonmarckherm</strong>
 </p>
-
 <p align="center">
   <em>Last Updated: March 2026</em>
 </p>
-
-<!--
-  Thanks for visiting my profile! 
-  Don't forget to ⭐ my repositories and follow me!
--->
