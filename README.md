@@ -1,15 +1,14 @@
 <!--
-  Hello! Welcome to my GitHub Profile README.
-  This file is automatically displayed on my GitHub profile page.
+  GitHub Profile README for Dhonmarckherm
   Last Updated: March 2026
 -->
 
-<!-- Typing Animation Header -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Dhonmarckherm+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Applications+%F0%9F%9A%80;Python+%7C+JavaScript+%7C+Computer+Vision" alt="Typing Animation" />
 </p>
 
-<!-- Profile Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070d7,6366f1,58a6ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
 </p>
@@ -36,7 +35,7 @@ class Developer:
 | **🌱 Learning** | Deep Learning, Neural Networks, Advanced ML Algorithms |
 | **💡 Passionate About** | Artificial Intelligence, Automation, Innovation |
 | **🎯 Goal** | Build impactful AI-driven applications that solve real-world problems |
-| **📫 Connect** | [Portfolio](#-featured-projects) • [Email](#-contact-me) |
+| **📫 Connect** | [Portfolio](https://github.com/Dhonmarckherm/Portfolio) |
 
 ---
 
@@ -164,10 +163,6 @@ class Developer:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhonmarckherm&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhonmarckherm&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
@@ -176,14 +171,12 @@ class Developer:
 ## 🎓 Learning Journey
 
 ### Currently Exploring
-```markdown
 - [x] Python Programming
 - [x] JavaScript & Web Development
 - [ ] Deep Learning & Neural Networks
 - [ ] Advanced Computer Vision
 - [ ] Cloud Technologies (AWS/Azure)
 - [ ] MLOps & Model Deployment
-```
 
 ### Roadmap 2026
 ```
@@ -238,12 +231,6 @@ Q4 2026: Real-World Projects
 <p align="center">
   <a href="https://github.com/Dhonmarckherm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://Dhonmarckherm.github.io/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
