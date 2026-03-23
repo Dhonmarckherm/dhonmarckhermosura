@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Dhonmarckherm;AI+and+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Python+JavaScript+Computer+Vision" alt="Typing Animation" />
-</p>
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Dhonmarckherm;AI+and+Machine+Learning+Enthusiast;Building+Intelligent+Applications;Python+JavaScript+Computer+Vision)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0070d7,6366f1,58a6ff&height=200&section=header&text=Welcome+to+My+Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Profile Banner" />
-</p>
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0070d7,6366f1,58a6ff&height=200&section=header&text=Welcome+to+My+Profile&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 ---
 
@@ -62,9 +58,7 @@ class Developer:
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhonmarckherm&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dhonmarckherm&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true)
 
 ---
 
@@ -99,9 +93,7 @@ Professional portfolio website with responsive design.
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhonmarckherm&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Activity Graph" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhonmarckherm&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
 ---
 
@@ -117,29 +109,18 @@ Professional portfolio website with responsive design.
 
 ## 💡 Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhonmarckherm&label=Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dhonmarckherm?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Dhonmarckherm&label=Profile+Views&color=58A6FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Dhonmarckherm?label=Followers&style=for-the-badge&color=58A6FF)
 
 ---
 
 ## 📫 Connect
 
-<p align="center">
-  <a href="https://github.com/Dhonmarckherm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://Dhonmarckherm.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dhonmarckherm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=google-chrome)](https://Dhonmarckherm.github.io/Portfolio)
 
 ---
 
-<p align="center">
-  <strong>Made with ❤️ by Dhonmarckherm</strong>
-</p>
-<p align="center">
-  <em>Last Updated: March 2026</em>
-</p>
+**Made with ❤️ by Dhonmarckherm**
+
+*Last Updated: March 2026*
